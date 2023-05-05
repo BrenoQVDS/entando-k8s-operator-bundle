@@ -1,5 +1,5 @@
 bundle:
-  version: 7.1.18
+  version: 7.1.50
   olmDisabled: true
   communityOnly: true
   containerRegistry: registry.connect.redhat.com
