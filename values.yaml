@@ -1,5 +1,5 @@
 bundle:
-  version: 8.2.7
+  version: 8.2.8
   olmDisabled: true
   communityOnly: true
   containerRegistry: registry.connect.redhat.com
